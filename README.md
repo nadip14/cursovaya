@@ -352,10 +352,10 @@
             </div>
             <div class="lesson-content">
                 <h3>Добавление ссылок и изображений</h3>
-                a href="https://i.pinimg.com/originals/0f/ba/b2/0fbab25000ada124c86ace56fc3f5806.jpg"
-                a href="https://i.pinimg.com/736x/d8/b5/a3/d8b5a36fb48f64e4d27a9e5d55795274.jpg"
-                a href="https://d35fbhjemrkr2a.cloudfront.net/Images/Shop/2/Blog/576/20200911162340498.jpg"
-                a href="https://freepngimg.com/thumb/letter/130390-h-letter-photos-free-transparent-image-hq.png"
+                <a href="https://i.pinimg.com/originals/0f/ba/b2/0fbab25000ada124c86ace56fc3f5806.jpg"</a>
+                <a href="https://i.pinimg.com/736x/d8/b5/a3/d8b5a36fb48f64e4d27a9e5d55795274.jpg"</a>
+                <a href="https://d35fbhjemrkr2a.cloudfront.net/Images/Shop/2/Blog/576/20200911162340498.jpg"</a>
+                <a href="https://freepngimg.com/thumb/letter/130390-h-letter-photos-free-transparent-image-hq.png"</a>
                 <p>Тег &lt;a&gt; создает гиперссылки, а &lt;img&gt; добавляет изображения на страницу.</p>
                 
                 <div class="code-example">
